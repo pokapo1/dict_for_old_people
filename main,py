@@ -6,3 +6,4 @@ while True:
     else:
         print("Данное слово не обнаружено")
         break
+fff
